@@ -1,0 +1,12 @@
+.post-list {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  gap: 30px;
+}
+
+.post-box {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
